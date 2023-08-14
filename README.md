@@ -22,11 +22,11 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## How to run the project on your machine
+1. first clone this repo <br> 
+    . `clone https://github.com/karim2251/online_store.git`
+2. run composer install <br>
+   . `composer install`
+3. then copy the .env.exemple to .env <br>
+   . `cp .env.exemple  .env`
 
-first clone this repo
-. clone https://github.com/zakariae111/note_app.git
-run composer install
-. composer install
-then copy the .env.exemple to .env
-. cp .env.exemple  .env
 And then configure the database info in the .env file.
