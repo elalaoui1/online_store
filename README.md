@@ -23,13 +23,10 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## How to run the project on your machine
 
-**first clone this repo**
+first clone this repo
 . clone https://github.com/zakariae111/note_app.git
-
-**run composer install**
+run composer install
 . composer install
-
-**then copy the .env.exemple to .env**
+then copy the .env.exemple to .env
 . cp .env.exemple  .env
-
 And then configure the database info in the .env file.
